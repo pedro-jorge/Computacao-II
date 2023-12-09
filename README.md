@@ -1,3 +1,1 @@
-# Computer-Programming-II-UFRJ
-Works from university, in Java. <br/>
-Subject: Computer Programming II.
+### Repositório das implementações da disciplina de Computação II da UFRJ (atualmente chamada de Programação de Computadores II)
